@@ -1,0 +1,2 @@
+# GSMKU
+Academic
